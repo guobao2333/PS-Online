@@ -1,12 +1,12 @@
 var LNG = {
 	"langs": [
 		{
-			"name": "简化字 中文",
+			"name": "简体中文",
 			"code": "zh-CN",
 			"table": 0
 		},
 		{
-			"name": "正體字 中文",
+			"name": "繁體中文",
 			"code": "zh-HK",
 			"table": 1
 		}

@@ -7968,7 +7968,7 @@ if(this.kn[i].Wz.GQ())this.B(new k("hideFloat"));else this.NI(i)};mE.prototype.f
 function fy(O){mE.call(this,O);this.fYF=0;this.ffI=this.fPs.bind(this);this.Op(this.H$);this.Pk=f.L("div","intro");
 this.Qh=["default;"];var i=f.L("ul");i.setAttribute("style","margin:0;  padding:164px 0px 0 113px; font-size:1.8em;");
 this.Pk.appendChild(i);this.ko=[];var p=[[11,7],[1,6],"",""],V=f.L("li");for(var E=0;
-E<p.length;E++){if(E==2){var u=new Nb("<span onclick=\"javascript:alert('不懂就就百度，最好的老师');\"></span><a href='http://www.frpkj.com' style='color:white;font-color:white'>在线帮助</a>&emsp;");V.appendChild(u.N)}var F=p[E],m=new Nb(F);m.V("click",this.fPm,this);
+E<p.length;E++){if(E==2){var u=new Nb("<span onclick=\"javascript:alert('不懂就就百度，最好的老师');\"></span><a href='http://www.baidu.com' style='color:white;font-color:white'>在线帮助</a>&emsp;");V.appendChild(u.N)}var F=p[E],m=new Nb(F);m.V("click",this.fPm,this);
 V.appendChild(m.N);this.ko.push(m);if(E==0||E==1||E==3||E==p.length-1){i.appendChild(V);V=f.L("li")}}var y=f.L("div");
 y.setAttribute("style","margin:0;  padding:28px 25px 0 25px; font-size:1.1em");this.Pk.appendChild(y);
 this.f$j={};var z=["en"],_=navigator.languages;if(_)for(var E=0;E<_.length;E++){var W=_[E].split("-")[0].toLowerCase();
