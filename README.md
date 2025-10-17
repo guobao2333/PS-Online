@@ -6,7 +6,7 @@
 - <https://ps.gobob.top>
 
 # 说明
-这源码我也忘了在哪找到的，反正github上似乎是没找到，索性就放上来给大家借鉴参考了。不过根据 ([#1](https://github.com/guobao2333/PS-Online/issues/1)) 找到了[原本的页面](ps.gaoding.com)，感兴趣可以去试试，而不是继续折腾本项目……
+这源码我也忘了在哪找到的，反正github上似乎是没找到，索性就放上来给大家借鉴参考了。不过根据 ([#1](https://github.com/guobao2333/PS-Online/issues/1)) 找到了[原本的页面](https://ps.gaoding.com)，感兴趣可以去试试，而不是继续折腾本项目……
 
 # 问题
 已知：手机端可能无法打开/创建新项目  
